@@ -6,13 +6,6 @@ import (
 	"os"
 )
 
-//fmt to show system output
-//data passed as bytes
-
-//take in a value with type interface{}
-//log that value in STDOUT
-
-//Output to std out or err
 
 type Logger struct {
 	out io.Writer
